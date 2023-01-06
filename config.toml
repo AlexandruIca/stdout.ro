@@ -1,0 +1,4 @@
+baseURL = 'https://stdout.ro/'
+languageCode = 'en-us'
+title = 'stdout.ro'
+theme = 'etch'
